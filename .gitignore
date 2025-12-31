@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these folders and their contents
+!commands/
+!commands/**
+!rules/
+!rules/**
+
+# Don't ignore the gitignore itself
+!.gitignore
+
