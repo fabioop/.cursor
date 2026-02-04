@@ -2,7 +2,7 @@
 
 Improve the selected code without changing its behavior.
 
-> **Related Rule**: `code-quality/RULE.md`
+> **Related Rule**: `code-quality/RULE.mdc`
 
 ## Rules
 

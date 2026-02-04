@@ -2,7 +2,7 @@
 
 Perform a comprehensive security review of the codebase.
 
-> **Related Rule**: `security/RULE.md`
+> **Related Rule**: `security/RULE.mdc`
 
 ## Steps
 

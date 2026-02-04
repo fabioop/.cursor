@@ -1,8 +1,8 @@
 # Code Review
 
-Perform a deep, high-value review of the current changes.
+Perform a deep, high-value review of the staged changes.
 
-> **Related Rule**: `code-review/RULE.md`
+> **Related Rule**: `code-review/RULE.mdc`
 
 ## Steps
 
